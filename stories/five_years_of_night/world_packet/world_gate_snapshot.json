@@ -1,0 +1,99 @@
+{
+  "edition": "2.0",
+  "baseline": "250 IS",
+  "stage": "reviewed before prose drafting",
+  "sources": [
+    {
+      "file": "world/core/world-frame.md",
+      "sha256": "1f6ad46af0c582cd3e90e6eb916f9832ba59c49d2b4d0e4a14b6a6482fac7649"
+    },
+    {
+      "file": "world/core/history.md",
+      "sha256": "aedd766744abb8730e77ab1b9736873280b459b1e8e0781f7ba32f2d7876cb2c"
+    },
+    {
+      "file": "world/core/peoples.md",
+      "sha256": "ec64909d4b7688a65d9464c5a4ea90d00a5fe2a15636ae255f27b205de4ebc1b"
+    },
+    {
+      "file": "world/core/cultures.md",
+      "sha256": "99348bd92f9c8138eb2a6d6647c57e8097fe8cb0226349ddd36fed014d00cea7"
+    },
+    {
+      "file": "world/core/faiths.md",
+      "sha256": "9d73dd1b81cfe0406c9c6e83b2147f906a7426ece65c4d8671a4a509a42a1461"
+    },
+    {
+      "file": "world/core/magic.md",
+      "sha256": "e1cce296d98e7f45d68031afdc9166e73ce82da2970e70ad91f1aefcdd9d55be"
+    },
+    {
+      "file": "world/core/vampirism.md",
+      "sha256": "72cf79b015464fc079fcc699c83c12bbbc4223e450068f706828e4d7cf925fdb"
+    },
+    {
+      "file": "world/core/ecology.md",
+      "sha256": "0674bfd9bec716f458666436d7bd2494d54db14afbdb1697b463dba06e54bf2f"
+    },
+    {
+      "file": "world/core/beyond-the-map.md",
+      "sha256": "9ffa56441e9a74218fc7c5907880ce021c7a377ca95eade27b69b3ba4b2c27ab"
+    },
+    {
+      "file": "world/regions/inner-salt.md",
+      "sha256": "a08b4eb31cbe37dcdac74b044d353cd04682f6eb4d8b5b76166bb81bde747ff7"
+    },
+    {
+      "file": "world/regions/rhydder.md",
+      "sha256": "7839c298630ccc3c166f5fc3b72dc3846cb48e5b57e761bbd69d603762444fba"
+    },
+    {
+      "file": "world/regions/orison.md",
+      "sha256": "d34eadef631d91381454aa6cc99fbaa49e98e257ebd6fc0321da113e50e7ea44"
+    },
+    {
+      "file": "world/regions/kharad-vorn.md",
+      "sha256": "d881f5ab0e5ba8f588d4f7aabfd3d7c162e6d8f8de7244c1503c413b3073d753"
+    },
+    {
+      "file": "world/regions/avarenne.md",
+      "sha256": "971c46008c542a88c197d162d51b6981406bc67a500c94ed36ce1d1dd1b08ec7"
+    },
+    {
+      "file": "world/regions/greyhaven.md",
+      "sha256": "ed95c275db57a6a0ce581659f38d4f395d1dbc61cc3db761130f7a45b527b7fe"
+    },
+    {
+      "file": "world/regions/velisara.md",
+      "sha256": "cc79a30ba13cd16a961f8a4a58e0ff2658eeb56d2e3a4bc8ea2f1f1d2576c517"
+    },
+    {
+      "file": "world/regions/merenne.md",
+      "sha256": "5f579024335add4a361841aa79b6a59ec1b713cf29558700e54b4c0c2778adb3"
+    },
+    {
+      "file": "world/regions/seven-boughs.md",
+      "sha256": "e6e5bc215730ab88376685a675ea7c9d6736f84a281db998eecb4622d0e8109b"
+    },
+    {
+      "file": "world/regions/redwind.md",
+      "sha256": "ba54ef59a42a11a90a6f912364d613e99ffffa5dd0d5b2a4083d5f44d1508084"
+    },
+    {
+      "file": "world/regions/aurelian-isles.md",
+      "sha256": "b84987524ed8f31e97e91306a4231b6da108e0a48fea874dbb78fbbae8637b4f"
+    },
+    {
+      "file": "world/regions/nine-beacons.md",
+      "sha256": "d901e654d4fa0e0e28e43e179030c810bf5d665fc768a0945d13c62f27e88b00"
+    },
+    {
+      "file": "world/regions/reef-crown.md",
+      "sha256": "6901bcc0ef672aac9c37c8e142a17b5a2e6f0db7fbec1bc1a4346c3f186212cf"
+    },
+    {
+      "file": "world/regions/story-ground.md",
+      "sha256": "55efdd21ed95f139f5f7f030790a1000ff8d105ecb09f8997b70796f2600a686"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Explore Aetherra: a local atlas of the Inner Salt, its peoples, magic, histories and stories.">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' file:; script-src 'self' file:; style-src 'self' 'unsafe-inline' file:; img-src 'self' file: data:; connect-src 'none'; object-src 'none'; base-uri 'none'">
+  <title>Aetherra · The Inner Salt</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="content.js" defer></script><script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#reader">Skip to reading pane</a>
+<header class="masthead">
+  <a href="#entry/world-frame" class="brand"><span class="sigil" aria-hidden="true">Æ</span><span>AETHERRA<small>AN ATLAS OF THE INNER SALT</small></span></a>
+  <nav aria-label="Main navigation"><button data-open="world-frame" class="nav-button">The world</button><button data-open="history" class="nav-button">History</button><button id="read-story" class="nav-button">Read the story</button></nav>
+  <div class="edition"><i></i> LOCAL EDITION <span>250 IS</span></div>
+</header>
+<main class="workspace">
+  <aside class="library" aria-label="Lore library">
+    <div class="library-top"><p class="eyebrow">EXPLORE THE WORLD</p><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search the lore…" aria-label="Search all world lore"><kbd>/</kbd></label>
+    <div class="filters" aria-label="Filter library"><button data-filter="all" class="active">All</button><button data-filter="core">Foundations</button><button data-filter="region">Regions</button></div></div>
+    <p class="result-count" id="result-count" aria-live="polite"></p><div id="directory" class="directory"></div>
+    <div class="library-bottom"><span class="small-star">✧</span><p>One sea. Countless stories.<br><small>A setting for stories yet untold.</small></p></div>
+  </aside>
+  <section class="map-panel" aria-label="Interactive atlas">
+    <div class="map-header"><div><p class="eyebrow">THE CHARTED HORIZON</p><h1 id="map-title">The Inner Salt</h1></div><button class="icon-button" id="toggle-reader" title="Expand or restore map" aria-label="Expand or restore map">⤢</button></div>
+    <div class="map-tabs" role="group" aria-label="Map scale"><button data-map="inner-salt" class="active">Inner Salt</button><button data-map="greater-meridian">Wider world</button><button data-map="rookharbour">Rookharbour coast</button></div>
+    <div id="map-stage" tabindex="0" role="group" aria-label="Map. Drag to pan, use plus and minus to zoom, arrow keys to pan. Select a named place to read its lore.">
+      <svg id="map" viewBox="0 0 1536 1024" xmlns="http://www.w3.org/2000/svg" aria-label="Aetherra atlas"><defs><filter id="label-shadow"><feDropShadow dx="0" dy="1" stdDeviation="3" flood-opacity="1"/></filter></defs><g id="map-content"></g></svg>
+      <div class="map-vignette"></div><div class="compass" aria-hidden="true"><span>N</span>✧</div>
+      <div class="zoom-controls"><button id="zoom-in" aria-label="Zoom in">+</button><button id="zoom-out" aria-label="Zoom out">−</button><button id="zoom-reset" aria-label="Reset map view">↺</button><output id="zoom-label">100%</output></div>
+      <div class="map-caption" id="map-caption"></div>
+    </div>
+    <div class="map-footer"><label for="layer">MAP LAYER</label><select id="layer"><option value="realms">Realms & places</option><option value="peoples">Peoples & cultures</option><option value="magic">Magic & old wounds</option><option value="routes">Roads & sea lanes</option><option value="story">Story places · no spoilers</option></select><span id="layer-note">Select a place to open its lore</span></div>
+    <div id="map-key" class="map-key"></div>
+    <div class="world-note"><span>✦</span><p id="world-note">Beyond these shores lie older empires, uncharted seas, and histories that never touched the Inner Salt.</p><button data-open="beyond-the-map">Beyond the map ↗</button></div>
+  </section>
+  <aside class="reader-panel" id="reader" aria-label="Selected lore" tabindex="-1">
+    <div class="reader-toolbar"><span id="entry-kind">WORLD FOUNDATION</span><div><button id="bookmark" title="Bookmark this article" aria-label="Bookmark this article" aria-pressed="false">☆</button><button id="reading-mode" aria-label="Toggle wide reading view" title="Wide reading view">☷</button><a id="source-link" href="../world/core/world-frame.md" title="Read the Markdown source" aria-label="Open Markdown source">↗</a></div></div>
+    <div class="reader-scroll"><div class="reader-meta" id="reader-meta"></div><article id="article"></article><div class="related" id="related"></div><div class="reader-end">✧</div></div>
+  </aside>
+</main>
+<footer class="statusbar"><span id="status">Loading local world…</span><span>A world in 250 IS · Stories begin here</span></footer>
+<noscript>This atlas needs JavaScript enabled. You can also read <a href="../world/WORLD_BOOK.md">the complete world book</a> directly.</noscript>
+</body></html>

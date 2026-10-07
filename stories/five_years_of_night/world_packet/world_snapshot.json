@@ -1,0 +1,62 @@
+{
+  "edition": "2.0",
+  "baseline": "250 IS",
+  "entry": "story-ground",
+  "sources": [
+    {
+      "id": "world-frame",
+      "file": "world/core/world-frame.md",
+      "sha256": "1f6ad46af0c582cd3e90e6eb916f9832ba59c49d2b4d0e4a14b6a6482fac7649"
+    },
+    {
+      "id": "history",
+      "file": "world/core/history.md",
+      "sha256": "aedd766744abb8730e77ab1b9736873280b459b1e8e0781f7ba32f2d7876cb2c"
+    },
+    {
+      "id": "inner-salt",
+      "file": "world/regions/inner-salt.md",
+      "sha256": "a08b4eb31cbe37dcdac74b044d353cd04682f6eb4d8b5b76166bb81bde747ff7"
+    },
+    {
+      "id": "peoples",
+      "file": "world/core/peoples.md",
+      "sha256": "ec64909d4b7688a65d9464c5a4ea90d00a5fe2a15636ae255f27b205de4ebc1b"
+    },
+    {
+      "id": "cultures",
+      "file": "world/core/cultures.md",
+      "sha256": "99348bd92f9c8138eb2a6d6647c57e8097fe8cb0226349ddd36fed014d00cea7"
+    },
+    {
+      "id": "faiths",
+      "file": "world/core/faiths.md",
+      "sha256": "9d73dd1b81cfe0406c9c6e83b2147f906a7426ece65c4d8671a4a509a42a1461"
+    },
+    {
+      "id": "magic",
+      "file": "world/core/magic.md",
+      "sha256": "e1cce296d98e7f45d68031afdc9166e73ce82da2970e70ad91f1aefcdd9d55be"
+    },
+    {
+      "id": "ecology",
+      "file": "world/core/ecology.md",
+      "sha256": "0674bfd9bec716f458666436d7bd2494d54db14afbdb1697b463dba06e54bf2f"
+    },
+    {
+      "id": "merenne",
+      "file": "world/regions/merenne.md",
+      "sha256": "5f579024335add4a361841aa79b6a59ec1b713cf29558700e54b4c0c2778adb3"
+    },
+    {
+      "id": "vampirism",
+      "file": "world/core/vampirism.md",
+      "sha256": "72cf79b015464fc079fcc699c83c12bbbc4223e450068f706828e4d7cf925fdb"
+    },
+    {
+      "id": "story-ground",
+      "file": "world/regions/story-ground.md",
+      "sha256": "55efdd21ed95f139f5f7f030790a1000ff8d105ecb09f8997b70796f2600a686"
+    }
+  ]
+}

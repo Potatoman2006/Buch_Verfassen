@@ -1,0 +1,66 @@
+{
+  "source": "C:\\PersonalFiles\\Side_Projects\\book_gen\\stories\\five_years_of_night\\manuscript.md",
+  "output": "C:\\PersonalFiles\\Side_Projects\\book_gen\\stories\\five_years_of_night\\output\\pdf\\five_years_of_night.pdf",
+  "title": "The House That Kept the Night",
+  "pages": 50,
+  "source_words": 15801,
+  "chapters": [
+    {
+      "title": "1. The Customer after Dark",
+      "pdf_page": 2
+    },
+    {
+      "title": "2. A Place at the Table",
+      "pdf_page": 6
+    },
+    {
+      "title": "3. The Man with the Lamp",
+      "pdf_page": 10
+    },
+    {
+      "title": "4. The Short Nights",
+      "pdf_page": 14
+    },
+    {
+      "title": "5. The Pear Tree",
+      "pdf_page": 18
+    },
+    {
+      "title": "6. The Door Left Open",
+      "pdf_page": 22
+    },
+    {
+      "title": "7. A Bowl of Cold Water",
+      "pdf_page": 26
+    },
+    {
+      "title": "8. The House under the Hill",
+      "pdf_page": 30
+    },
+    {
+      "title": "9. What the Day Returned",
+      "pdf_page": 34
+    },
+    {
+      "title": "10. The Last Invitation",
+      "pdf_page": 38
+    },
+    {
+      "title": "11. The Rooms Beneath the Water",
+      "pdf_page": 42
+    },
+    {
+      "title": "12. A Light in the Kitchen",
+      "pdf_page": 47
+    }
+  ],
+  "layout": {
+    "width_inches": 7.0,
+    "height_inches": 10.0,
+    "font": "NovellaSerif",
+    "font_size": 11.0,
+    "leading": 13.8,
+    "side_margin_inches": 0.62
+  },
+  "unsupported_characters": []
+}

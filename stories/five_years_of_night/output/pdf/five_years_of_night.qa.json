@@ -1,0 +1,756 @@
+{
+  "pdf": "C:\\PersonalFiles\\Side_Projects\\book_gen\\stories\\five_years_of_night\\output\\pdf\\five_years_of_night.pdf",
+  "page_count": 50,
+  "total_words": 15854,
+  "blank_pages": [],
+  "out_of_page_characters": [],
+  "missing_glyph_markers": [],
+  "page_metrics": [
+    {
+      "page": 1,
+      "words": 10,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        52.1,
+        154.61,
+        451.9,
+        219.7
+      ]
+    },
+    {
+      "page": 2,
+      "words": 419,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        52.07,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 3,
+      "words": 422,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 4,
+      "words": 381,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 5,
+      "words": 246,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 6,
+      "words": 399,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        52.07,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 7,
+      "words": 482,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 8,
+      "words": 351,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 9,
+      "words": 288,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 10,
+      "words": 372,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        52.07,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 11,
+      "words": 335,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 12,
+      "words": 374,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 13,
+      "words": 314,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 14,
+      "words": 357,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        52.07,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 15,
+      "words": 325,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 16,
+      "words": 361,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 17,
+      "words": 243,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 18,
+      "words": 390,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        52.07,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 19,
+      "words": 427,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 20,
+      "words": 375,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 21,
+      "words": 46,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 22,
+      "words": 376,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        52.07,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 23,
+      "words": 257,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 24,
+      "words": 346,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 25,
+      "words": 49,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        56.64,
+        49.9,
+        403.48,
+        697.25
+      ]
+    },
+    {
+      "page": 26,
+      "words": 412,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        52.07,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 27,
+      "words": 328,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 28,
+      "words": 381,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 29,
+      "words": 155,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 30,
+      "words": 356,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        52.07,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 31,
+      "words": 364,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 32,
+      "words": 287,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 33,
+      "words": 240,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 34,
+      "words": 336,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        52.07,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 35,
+      "words": 390,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 36,
+      "words": 334,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 37,
+      "words": 182,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 38,
+      "words": 451,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        52.07,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 39,
+      "words": 412,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 40,
+      "words": 301,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 41,
+      "words": 293,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 42,
+      "words": 359,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        52.07,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 43,
+      "words": 311,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 44,
+      "words": 364,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 45,
+      "words": 369,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 46,
+      "words": 80,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 47,
+      "words": 361,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        52.07,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 48,
+      "words": 392,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 49,
+      "words": 382,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        44.64,
+        49.9,
+        459.36,
+        697.25
+      ]
+    },
+    {
+      "page": 50,
+      "words": 69,
+      "size_points": [
+        504,
+        720
+      ],
+      "text_bounds_points": [
+        56.64,
+        49.9,
+        458.87,
+        697.25
+      ]
+    }
+  ],
+  "source_comparison": {
+    "source": "C:\\PersonalFiles\\Side_Projects\\book_gen\\stories\\five_years_of_night\\manuscript.md",
+    "source_words": 15801,
+    "pdf_words": 15854,
+    "missing_token_counts": {},
+    "all_source_tokens_in_order": true,
+    "matched_source_tokens": 15801,
+    "first_unmatched_context": []
+  },
+  "rendering": {
+    "renderer": "C:\\Users\\Hdasi\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\poppler\\Library\\bin\\pdftoppm.exe",
+    "contact_sheets": [
+      "C:\\PersonalFiles\\Side_Projects\\book_gen\\tmp\\pdfs\\five_years_of_night_qa\\render-84616f6a107f\\contact-sheet-01.png",
+      "C:\\PersonalFiles\\Side_Projects\\book_gen\\tmp\\pdfs\\five_years_of_night_qa\\render-84616f6a107f\\contact-sheet-02.png",
+      "C:\\PersonalFiles\\Side_Projects\\book_gen\\tmp\\pdfs\\five_years_of_night_qa\\render-84616f6a107f\\contact-sheet-03.png",
+      "C:\\PersonalFiles\\Side_Projects\\book_gen\\tmp\\pdfs\\five_years_of_night_qa\\render-84616f6a107f\\contact-sheet-04.png"
+    ],
+    "representative_pages": [
+      "C:\\PersonalFiles\\Side_Projects\\book_gen\\tmp\\pdfs\\five_years_of_night_qa\\render-84616f6a107f\\representative_pages\\page-001.png",
+      "C:\\PersonalFiles\\Side_Projects\\book_gen\\tmp\\pdfs\\five_years_of_night_qa\\render-84616f6a107f\\representative_pages\\page-002.png",
+      "C:\\PersonalFiles\\Side_Projects\\book_gen\\tmp\\pdfs\\five_years_of_night_qa\\render-84616f6a107f\\representative_pages\\page-003.png",
+      "C:\\PersonalFiles\\Side_Projects\\book_gen\\tmp\\pdfs\\five_years_of_night_qa\\render-84616f6a107f\\representative_pages\\page-021.png",
+      "C:\\PersonalFiles\\Side_Projects\\book_gen\\tmp\\pdfs\\five_years_of_night_qa\\render-84616f6a107f\\representative_pages\\page-025.png",
+      "C:\\PersonalFiles\\Side_Projects\\book_gen\\tmp\\pdfs\\five_years_of_night_qa\\render-84616f6a107f\\representative_pages\\page-035.png",
+      "C:\\PersonalFiles\\Side_Projects\\book_gen\\tmp\\pdfs\\five_years_of_night_qa\\render-84616f6a107f\\representative_pages\\page-042.png",
+      "C:\\PersonalFiles\\Side_Projects\\book_gen\\tmp\\pdfs\\five_years_of_night_qa\\render-84616f6a107f\\representative_pages\\page-049.png",
+      "C:\\PersonalFiles\\Side_Projects\\book_gen\\tmp\\pdfs\\five_years_of_night_qa\\render-84616f6a107f\\representative_pages\\page-050.png"
+    ],
+    "manual_visual_review_required": true
+  },
+  "automated_checks_pass": true,
+  "manuscript_sha256": "e18da9fb1ca0ab9f4aad9054c24746bf71e8d95c1305497c01e629dc05208e14",
+  "pdf_sha256": "84616f6a107f7ca54fde1acc7dfe2b1769953000aa5a369c3d574f556452272a",
+  "visual_review": {
+    "reviewed_utc": "2026-09-05T23:28:35.8144804Z",
+    "all_pages_reviewed_in_contact_sheets": true,
+    "detailed_pages_reviewed": [
+      1,
+      2,
+      25,
+      35,
+      42,
+      50
+    ],
+    "result": "Readable text and consistent margins; no observed overlap, clipping, missing glyphs, or blank pages. Short chapter endings and the final page retain normal chapter breaks."
+  }
+}

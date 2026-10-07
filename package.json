@@ -1,0 +1,12 @@
+{
+  "name": "aetherra-local-world",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One modular fantasy world and an offline interactive atlas",
+  "scripts": {
+    "build": "node tools/build_atlas.mjs",
+    "test": "node --test tools/atlas.test.mjs",
+    "validate": "node tools/validate_world.mjs"
+  }
+}

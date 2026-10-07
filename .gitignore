@@ -1,0 +1,11 @@
+.idea/
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Superseded work and local dependency/configuration trees stay private.
+archive/_superseded_2026-09-05/
+tmp/
+node_modules/
+*.log

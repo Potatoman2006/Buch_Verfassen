@@ -1,0 +1,83 @@
+{
+  "valid": true,
+  "manuscriptSha256": "e18da9fb1ca0ab9f4aad9054c24746bf71e8d95c1305497c01e629dc05208e14",
+  "title": "The House That Kept the Night",
+  "words": 15785,
+  "chapters": [
+    {
+      "number": 1,
+      "heading": "1. The Customer after Dark",
+      "words": 1458,
+      "elapsedMonths": 0
+    },
+    {
+      "number": 2,
+      "heading": "2. A Place at the Table",
+      "words": 1509,
+      "elapsedMonths": 2
+    },
+    {
+      "number": 3,
+      "heading": "3. The Man with the Lamp",
+      "words": 1385,
+      "elapsedMonths": 6
+    },
+    {
+      "number": 4,
+      "heading": "4. The Short Nights",
+      "words": 1275,
+      "elapsedMonths": 9
+    },
+    {
+      "number": 5,
+      "heading": "5. The Pear Tree",
+      "words": 1229,
+      "elapsedMonths": 12
+    },
+    {
+      "number": 6,
+      "heading": "6. The Door Left Open",
+      "words": 1017,
+      "elapsedMonths": 18
+    },
+    {
+      "number": 7,
+      "heading": "7. A Bowl of Cold Water",
+      "words": 1266,
+      "elapsedMonths": 36
+    },
+    {
+      "number": 8,
+      "heading": "8. The House under the Hill",
+      "words": 1236,
+      "elapsedMonths": 39
+    },
+    {
+      "number": 9,
+      "heading": "9. What the Day Returned",
+      "words": 1230,
+      "elapsedMonths": 42
+    },
+    {
+      "number": 10,
+      "heading": "10. The Last Invitation",
+      "words": 1447,
+      "elapsedMonths": 59.8
+    },
+    {
+      "number": 11,
+      "heading": "11. The Rooms Beneath the Water",
+      "words": 1472,
+      "elapsedMonths": 59.8
+    },
+    {
+      "number": 12,
+      "heading": "12. A Light in the Kitchen",
+      "words": 1192,
+      "elapsedMonths": 60
+    }
+  ],
+  "durationMonths": 60,
+  "errors": [],
+  "note": "Structural/source-snapshot checks only. Literary quality and narrative adherence require the separate editorial read."
+}

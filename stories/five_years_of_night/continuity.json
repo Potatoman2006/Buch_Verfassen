@@ -1,0 +1,143 @@
+{
+  "title": "The House That Kept the Night",
+  "protagonist": {
+    "name": "Mara Venn",
+    "ageAtTurning": 20
+  },
+  "start": "autumn 250 IS",
+  "end": "autumn 255 IS",
+  "durationMonths": 60,
+  "anniversary": "Mara survives transformation at dawn on the eighteenth day of autumn 250 IS; the final scene reaches the corresponding dawn on the eighteenth day of autumn 255 IS.",
+  "sourcePacket": "world_packet/WORLD_PACKET.md",
+  "continuityScope": "Dated local story events only; the shared world baseline remains the first day of 250 IS.",
+  "principalCharacters": [
+    {"name": "Mara Venn", "ageAtStart": 20, "chronologicalAgeAtEnd": 25, "condition": "Human before the opening; vampire after surviving the first night."},
+    {"name": "Tessa Venn", "ageAtStart": 17, "ageAtEnd": 22, "condition": "Human; develops bounded herbal and wound-care experience."},
+    {"name": "Brother Cael", "ageAtStart": 38, "ageAtEnd": 43, "condition": "Human; narrow established echo ward only."},
+    {"name": "Yseld", "turnedIn": "213 IS", "ageAtTurning": 29, "yearsAsVampireAtStart": 37, "yearsAsVampireAtDeath": 42, "condition": "Formerly human vampire; dies when stone destroys her chest and heart in autumn 255."}
+  ],
+  "namedMinorCharacters": ["Widow Harl", "Nessa", "Bren"],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Customer after Dark",
+      "date": "autumn 250 IS; turning completed at dawn on the eighteenth day",
+      "elapsedMonths": 0,
+      "places": ["Saint Orra's kitchen and garden", "Saint Orra's service crypt"],
+      "feedingNotes": "Yseld deliberately brings adult Mara to the edge of death and gives her vampire blood before death. After surviving transformation, Mara drinks a fresh small cup from coerced adult Bren. Yseld's blood is only the turning catalyst.",
+      "injuryNotes": "Mara cuts Yseld's gripping hand, which Yseld stitches. Mara's severe throat injury requires weeks of recovery. Brief daylight exposure burns two knuckles; no immediate healing follows feeding.",
+      "canonModules": ["story-ground", "vampirism", "magic"]
+    },
+    {
+      "number": 2,
+      "title": "A Place at the Table",
+      "date": "winter 250 IS",
+      "elapsedMonths": 2,
+      "places": ["Saint Orra's", "monastery road and lime shed", "Venn rooms above Rookharbour rope shed"],
+      "feedingNotes": "Dependent on Yseld's coerced adult access. A single rabbit-blood episode blunts hunger for one night only. Tessa is seventeen and supplies no blood.",
+      "injuryNotes": "Three weeks of initial bed-bound weakness are described; throat and knuckle injuries heal slowly, with tenderness and later scars.",
+      "canonModules": ["story-ground", "vampirism", "cultures"]
+    },
+    {
+      "number": 3,
+      "title": "The Man with the Lamp",
+      "date": "spring 251 IS",
+      "elapsedMonths": 6,
+      "places": ["lime shed at the ninth kilometre from Rookharbour", "Saint Orra's kitchen"],
+      "feedingNotes": "After four nights without adequate blood, Mara receives one fresh contribution from adult Cael. Tessa does not donate. Cael offers developing support rather than a cure or an instantly sufficient network.",
+      "injuryNotes": "Original burns remain scarred and occasionally painful. Cael admits his earlier hunt injured an unnamed human bystander. No new injury to Mara in this chapter.",
+      "canonModules": ["story-ground", "vampirism", "faiths"]
+    },
+    {
+      "number": 4,
+      "title": "The Short Nights",
+      "date": "summer 251 IS",
+      "elapsedMonths": 9,
+      "places": ["Saint Orra's", "Bren's cottage near eastern Rookharbour gardens", "Rookharbour rope-shed kitchen", "Rookharbour infirmary", "Nessa's house in Briarbridge"],
+      "feedingNotes": "A still-insufficient voluntary group only partly supports Mara, explaining continuing dependence. She refuses to take blood from visibly ill Bren. Town visits include a daytime stay behind opaque shutters; covered transport to Briarbridge is physically opaque.",
+      "injuryNotes": "Yseld bites Mara's hand during the kitchen struggle. Harl strikes Yseld behind the ear with an iron pan; the injury later leaves a scar and prompts relocation. Mara suffers a serious shoulder burn from the fire/daylight escape and needs most of the summer to recover.",
+      "canonModules": ["story-ground", "vampirism", "merenne"]
+    },
+    {
+      "number": 5,
+      "title": "The Pear Tree",
+      "date": "autumn 251 IS",
+      "elapsedMonths": 12,
+      "places": ["Nessa's house and garden", "Briarbridge common", "nearby luminous grove"],
+      "feedingNotes": "Mara receives developing voluntary support; a smell of fresh blood after the stag attack draws her attention and exposes her condition. She takes no involuntary meal.",
+      "injuryNotes": "Shoulder remains tight and painful after weeks of recovery. A scarwood stag's thorn cuts Mara's cheek. Rope/tree leverage and explicit knots restrain the stag; Mara does not hold its charge with raw strength.",
+      "canonModules": ["story-ground", "ecology", "vampirism", "cultures"]
+    },
+    {
+      "number": 6,
+      "title": "The Door Left Open",
+      "date": "spring 252 IS",
+      "elapsedMonths": 18,
+      "places": ["Nessa's house in Briarbridge", "Briar Brook forest bank"],
+      "feedingNotes": "Support has grown gradually across several households and many adults, with Nessa screening health and allowing withdrawal. Mara works to contribute ordinary household income. A lone sibling or single donor never sustains her.",
+      "injuryNotes": "Yseld has recently injured Bren's wrist while threatening his departure. Mara loosens an incorrectly tight wrapping. Earlier shoulder and cheek injuries remain part of her body.",
+      "canonModules": ["story-ground", "vampirism", "cultures"]
+    },
+    {
+      "number": 7,
+      "title": "A Bowl of Cold Water",
+      "date": "autumn 253 IS, following a described eighteen-month period of ordinary life",
+      "elapsedMonths": 36,
+      "places": ["Briarbridge", "Rookharbour infirmary", "Rookharbour quay and Harl's rebuilt storeroom"],
+      "feedingNotes": "Established voluntary adult support continues alongside night work. The chapter describes Yseld's disrupted coerced access and failed daylight searches, with warning helpers, relocation and physically blocked rooms rather than daylight immunity.",
+      "injuryNotes": "Mara's old shoulder scar still stiffens in cold weather. No new injury. Tessa leaves for a limited learning period in Velisara; coastal travel takes weeks and Mara returns to opaque shelter before the boat departs.",
+      "canonModules": ["story-ground", "vampirism", "peoples", "cultures", "merenne"]
+    },
+    {
+      "number": 8,
+      "title": "The House under the Hill",
+      "date": "winter 253–254 IS",
+      "elapsedMonths": 39,
+      "places": ["Harl's Rookharbour rooms", "Rookharbour burial hill", "Saint Orra's kitchen and pantry", "lime shed", "Rookharbour infirmary"],
+      "feedingNotes": "Mara's established support continues. Yseld has a restrained adult victim in the pantry; Mara frees her. No blood from Yseld or animals replaces the ordinary requirement.",
+      "injuryNotes": "Harl dies of ordinary respiratory illness. Yseld stabs Mara low in the side; the injured Mara requires hours to reach the lime shed, daylight shelter and subsequent weeks of care. Vampires need air and can suffer fever and pain. Mara's injury does not disappear after one meal.",
+      "canonModules": ["story-ground", "vampirism", "faiths"]
+    },
+    {
+      "number": 9,
+      "title": "What the Day Returned",
+      "date": "spring to summer 254 IS",
+      "elapsedMonths": 42,
+      "elapsedMonthsAtEnd": 45,
+      "places": ["Rookharbour infirmary and burial hill", "Venn rented rooms and small garden", "Bren's workshop near the eastern gardens"],
+      "feedingNotes": "Mara and companions help several coerced households withdraw from Yseld's reach. Voluntary support for Mara remains independent of a single relative.",
+      "injuryNotes": "Mara's side wound has closed but still pulls. In summer, Cael shoots Yseld high in the thigh. She escapes via covered transport while both Mara and Cael attend Bren, whose collapse follows the head injury Yseld already inflicted. Yseld's leg heals slowly and retains impairment.",
+      "canonModules": ["story-ground", "vampirism", "cultures"]
+    },
+    {
+      "number": 10,
+      "title": "The Last Invitation",
+      "date": "eleventh day of autumn 255 IS; includes retrospective events since summer 254",
+      "elapsedMonths": 59.8,
+      "places": ["Venn home in Rookharbour", "monastery road", "lime shed", "Saint Orra's kitchen"],
+      "feedingNotes": "Cael brings a fresh adult contribution to the lime shed, explicitly less than four hours old, when Mara is due to feed. Yseld's previous access has eroded through departures and warning neighbours; her attempts, relocations and new human intermediaries explain the elapsed year.",
+      "injuryNotes": "Tessa is abducted by human intermediaries in daylight using a false medical request, transported in a covered wagon, bruised and bound. Yseld still favours the healed but impaired leg; it is not a year-old open wound.",
+      "canonModules": ["story-ground", "vampirism", "merenne", "cultures"]
+    },
+    {
+      "number": 11,
+      "title": "The Rooms Beneath the Water",
+      "date": "before dawn on the twelfth day of autumn 255 IS",
+      "elapsedMonths": 59.8,
+      "places": ["Saint Orra's stairs", "Listening Sill's three chambers and sea intakes", "Saint Orra's upper pantry"],
+      "feedingNotes": "Mara fed during the approach; no fight-time feeding or hunger-derived power increase occurs. Yseld's own blood cannot sustain anyone. The group shelters at the monastery after sunrise instead of making an impossible sixteen-kilometre retreat.",
+      "injuryNotes": "Mara's forearm breaks during the fight and is set/splinted afterwards. Tessa's bruises remain. Yseld removes a loaded brace intending to collapse the exit and prevent departure; falling stone destroys her chest and heart. Her death is physical and final. Cael's ward dampens echoes only. Yseld briefly controls a small balanced selector gate; Cael, Bren and Tessa separately operate the main shutter's three wheels.",
+      "canonModules": ["story-ground", "magic", "vampirism"]
+    },
+    {
+      "number": 12,
+      "title": "A Light in the Kitchen",
+      "date": "dawn on the eighteenth day of autumn 255 IS",
+      "elapsedMonths": 60,
+      "places": ["Venn home and garden in Rookharbour", "Saint Orra's shutdown and burial described in reports"],
+      "feedingNotes": "Mara receives her ordinary fresh meal from a healthy willing adult visiting with Nessa before the anniversary supper. Her need continues. Tessa is twenty-two, has her own daytime work, and is not made a recurring donor.",
+      "injuryNotes": "Mara's arm remains splinted six days after the climax and will need weeks more recovery. Tessa's bruises and emotional effects persist. Masons complete physical blocking and bracing of both sea intakes after the rescue; lower chambers become unusable while the chapel remains. The ending reaches exactly five years after Mara survived transformation.",
+      "canonModules": ["story-ground", "vampirism", "faiths", "cultures"]
+    }
+  ]
+}

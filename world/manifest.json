@@ -1,0 +1,269 @@
+{
+  "edition": "2.0",
+  "baseline": "250 IS",
+  "modules": [
+    {
+      "id": "world-frame",
+      "category": "core",
+      "file": "world/core/world-frame.md",
+      "dependsOn": [],
+      "navTitle": "World overview"
+    },
+    {
+      "id": "history",
+      "category": "core",
+      "file": "world/core/history.md",
+      "dependsOn": [
+        "world-frame"
+      ],
+      "navTitle": "History"
+    },
+    {
+      "id": "peoples",
+      "category": "core",
+      "file": "world/core/peoples.md",
+      "dependsOn": [
+        "world-frame",
+        "history"
+      ],
+      "navTitle": "Peoples & races"
+    },
+    {
+      "id": "cultures",
+      "category": "core",
+      "file": "world/core/cultures.md",
+      "dependsOn": [
+        "peoples",
+        "history"
+      ],
+      "navTitle": "Cultures & daily life"
+    },
+    {
+      "id": "faiths",
+      "category": "core",
+      "file": "world/core/faiths.md",
+      "dependsOn": [
+        "history",
+        "cultures"
+      ],
+      "navTitle": "Faiths & worship"
+    },
+    {
+      "id": "magic",
+      "category": "core",
+      "file": "world/core/magic.md",
+      "dependsOn": [
+        "world-frame"
+      ],
+      "navTitle": "Magic & the six crafts"
+    },
+    {
+      "id": "vampirism",
+      "category": "core",
+      "file": "world/core/vampirism.md",
+      "dependsOn": [
+        "magic",
+        "peoples"
+      ],
+      "navTitle": "Vampirism"
+    },
+    {
+      "id": "ecology",
+      "category": "core",
+      "file": "world/core/ecology.md",
+      "dependsOn": [
+        "world-frame",
+        "magic"
+      ],
+      "navTitle": "Creatures & ecology"
+    },
+    {
+      "id": "beyond-the-map",
+      "category": "core",
+      "file": "world/core/beyond-the-map.md",
+      "dependsOn": [
+        "world-frame",
+        "history"
+      ],
+      "navTitle": "Beyond the map"
+    },
+    {
+      "id": "inner-salt",
+      "category": "region",
+      "file": "world/regions/inner-salt.md",
+      "dependsOn": [
+        "world-frame",
+        "history"
+      ],
+      "navTitle": "The Inner Salt"
+    },
+    {
+      "id": "rhydder",
+      "category": "region",
+      "file": "world/regions/rhydder.md",
+      "dependsOn": [
+        "inner-salt",
+        "peoples",
+        "cultures",
+        "faiths",
+        "magic",
+        "ecology"
+      ]
+    },
+    {
+      "id": "orison",
+      "category": "region",
+      "file": "world/regions/orison.md",
+      "dependsOn": [
+        "inner-salt",
+        "peoples",
+        "cultures",
+        "faiths",
+        "magic",
+        "ecology"
+      ]
+    },
+    {
+      "id": "kharad-vorn",
+      "category": "region",
+      "file": "world/regions/kharad-vorn.md",
+      "dependsOn": [
+        "inner-salt",
+        "peoples",
+        "cultures",
+        "faiths",
+        "magic",
+        "ecology"
+      ]
+    },
+    {
+      "id": "avarenne",
+      "category": "region",
+      "file": "world/regions/avarenne.md",
+      "dependsOn": [
+        "inner-salt",
+        "peoples",
+        "cultures",
+        "faiths",
+        "magic",
+        "ecology"
+      ]
+    },
+    {
+      "id": "greyhaven",
+      "category": "region",
+      "file": "world/regions/greyhaven.md",
+      "dependsOn": [
+        "inner-salt",
+        "peoples",
+        "cultures",
+        "faiths",
+        "magic",
+        "ecology"
+      ]
+    },
+    {
+      "id": "velisara",
+      "category": "region",
+      "file": "world/regions/velisara.md",
+      "dependsOn": [
+        "inner-salt",
+        "peoples",
+        "cultures",
+        "faiths",
+        "magic",
+        "ecology"
+      ]
+    },
+    {
+      "id": "merenne",
+      "category": "region",
+      "file": "world/regions/merenne.md",
+      "dependsOn": [
+        "inner-salt",
+        "peoples",
+        "cultures",
+        "faiths",
+        "magic",
+        "ecology"
+      ]
+    },
+    {
+      "id": "seven-boughs",
+      "category": "region",
+      "file": "world/regions/seven-boughs.md",
+      "dependsOn": [
+        "inner-salt",
+        "peoples",
+        "cultures",
+        "faiths",
+        "magic",
+        "ecology"
+      ]
+    },
+    {
+      "id": "redwind",
+      "category": "region",
+      "file": "world/regions/redwind.md",
+      "dependsOn": [
+        "inner-salt",
+        "peoples",
+        "cultures",
+        "faiths",
+        "magic",
+        "ecology"
+      ]
+    },
+    {
+      "id": "aurelian-isles",
+      "category": "region",
+      "file": "world/regions/aurelian-isles.md",
+      "dependsOn": [
+        "inner-salt",
+        "peoples",
+        "cultures",
+        "faiths",
+        "magic",
+        "ecology"
+      ]
+    },
+    {
+      "id": "nine-beacons",
+      "category": "region",
+      "file": "world/regions/nine-beacons.md",
+      "dependsOn": [
+        "inner-salt",
+        "peoples",
+        "cultures",
+        "faiths",
+        "magic",
+        "ecology"
+      ]
+    },
+    {
+      "id": "reef-crown",
+      "category": "region",
+      "file": "world/regions/reef-crown.md",
+      "dependsOn": [
+        "inner-salt",
+        "peoples",
+        "cultures",
+        "faiths",
+        "magic",
+        "ecology"
+      ]
+    },
+    {
+      "id": "story-ground",
+      "category": "region",
+      "file": "world/regions/story-ground.md",
+      "dependsOn": [
+        "merenne",
+        "magic",
+        "vampirism",
+        "faiths"
+      ],
+      "navTitle": "Rookharbour coast"
+    }
+  ]
+}

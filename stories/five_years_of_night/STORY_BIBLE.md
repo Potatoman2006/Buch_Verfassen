@@ -1,0 +1,55 @@
+# The House That Kept the Night: story bible
+
+## Authority and reader promise
+
+The novella uses the reviewed eleven-module snapshot in `world_packet/WORLD_PACKET.md`. Its local continuity begins with Mara Venn's turning in autumn 250 IS and ends at the corresponding dawn in autumn 255 IS, five full years later. It adds ordinary people, rooms, work and dated local events; it changes no shared magic, physiology, political baseline or geography. The wider world enters through migrants, goods, songs, creatures and the changing lives of neighbours, not a tour of countries.
+
+The reader enters a vampire story immediately: a young sail-mender recognises a customer's predation, tries to escape, and is deliberately brought to the edge of death and turned. Her survival creates a dependence that she must first understand, then leave. Over five years, the central question becomes whether a home is something another person can make impossible to leave. Hunger is intimate and bodily. It must never become an accounting puzzle, a sequence of speeches about ethics, or an excuse to reduce donors to supplies.
+
+The tone is dark fantasy with human warmth. Violence injures bodies and relationships; humour comes from familiar people being specific, difficult and fond. There is no explicit sexual content or obligatory romance. The complete ending resolves Yseld's coercion while preserving the costs of Mara's condition and the independent futures of the living.
+
+## Cast and change
+
+**Mara Venn**, twenty at turning, knows sailcloth, stitching, rope, modest boats and local tides. She begins by believing she must privately absorb every danger to protect Tessa. Yseld exploits that habit. Leaving her sire does not immediately free Mara from it: later she tries to keep Tessa home through fear and concealment. Her eventual change is practical and emotional: she tells others what she cannot manage, accepts decisions that hurt her, and participates in a household whose members can leave. She never becomes a tidewright or gains new vampire powers.
+
+**Tessa Venn**, seventeen at the start and twenty-two at the end, moves from ropewalk and kitchen beds into herbal and wound-care work. Her local apprenticeship in Briarbridge leads to a period of further learning in Velisara. She returns because she chooses a useful life on her own coast, not because Mara summons her. She loves her sister while resenting the assumption that her life is the sister's final possession. She never becomes Mara's routine blood source.
+
+**Yseld**, turned in 213 at twenty-nine, has thirty-seven years of experience as a vampire at the beginning and forty-two by the end. She is tender when tenderness secures belonging and violent when someone withdraws it. Her tidewright apprenticeship supplies real, limited knowledge. She wants safe rooms and a dependent household. She deliberately turns Mara for her skills, routes and vulnerable family tie, despite worsening an already fragile blood supply. Each reversal changes her tactics: instruction and concealment; intimidation and retaliation; pressure on former donors; attempts to restore additional monastery rooms; finally seizure of the person Mara most fears losing. Injuries, missing helpers, failing material works and the resistance of other people limit what she can do. She does not merely wait for five years.
+
+**Brother Cael**, thirty-eight to forty-three, offers a possible way out but carries his own failure: an earlier violent hunt injured a human bystander, and his first instincts still favour containment when frightened. He must learn to distinguish keeping Mara alive from managing her entire life. He has wound care, tracking, restraint and the already established narrow echo ward. His ward cannot burn vampires, operate tidal gates or provide magical certainty.
+
+The three named minor characters are **Widow Harl**, the rope-shed owner already in canon; **Nessa**, the previously unnamed Briarbridge midwife and herb grower; and **Bren**, an adult cooper and intermittent boat repairer drawn into Yseld's coerced access. Harl gives the sisters ordinary affection with abrasive humour and visibly ages. Nessa offers Tessa work and disagreement, not effortless sanctuary. Bren has been victim, reluctant intermediary and frightened accomplice; his eventual help involves a real risk and does not erase what he did. Other residents appear briefly by role without accumulating a second principal cast.
+
+## Chapter movement
+
+1. **The Customer after Dark** — Autumn 250; month 0. A delivery to Saint Orra's becomes an attempted escape from witnessed predation. Yseld nearly drains Mara, gives her blood before death, and keeps her through transformation. Mara survives to dawn on the eighteenth day of autumn. Her first sustaining blood comes from a coerced living adult. The throat injury and a small daylight burn require recovery.
+
+2. **A Place at the Table** — Winter 250; month 2. After weeks of weakness, Yseld teaches essential survival in a house that slowly reveals its locks. Mara is made to send a misleading message home. She eventually reaches Tessa at night, confesses what happened and discovers that absence has hurt her sister more than an honest terror would have. Yseld's knowledge of the household becomes an explicit threat.
+
+3. **The Man with the Lamp** — Spring 251; month 6. Tessa arranges a meeting with Cael. His fear and his history prevent an easy saviour scene. A first freely offered meal and a fallible promise establish another possible life. Mara returns to the monastery for the belongings and knowledge on which she still depends; Yseld understands that something has changed.
+
+4. **The Short Nights** — Summer 251; month 9. Leaving Yseld becomes action. A failed collection exposes the harm Mara is being used to carry out. She refuses, and Yseld retaliates against a shelter connected to the Venn household. Summer dawn and a fire force costly choices. Mara escapes with a serious burn that takes weeks to heal; her former life cannot simply be put back together.
+
+5. **The Pear Tree** — Autumn 251; month 12. Recuperation in Briarbridge turns into a tentative first year outside the monastery. A harvest gathering and a scarwood stag make the forest's beauty and terror material. Mara's intervention saves someone while exposing her condition to people who may reject her. Tessa begins a life that is not merely waiting for Mara to return.
+
+6. **The Door Left Open** — Spring 252; month 18. A precarious voluntary circle and night work become possible through several households. Nessa and Cael disagree over shelter and control. Bren arrives with evidence in his own injuries of Yseld's deteriorating hold. Mara chooses to help him despite his part in her first captivity, and Yseld loses a useful intermediary.
+
+7. **A Bowl of Cold Water** — Autumn 253; month 36. The intervening seasons have changed work, faces and trust. Tessa plans to study in Velisara. Mara tries to prevent a departure through fear, discovering her resemblance to the woman she fled. Their quarrel ends with Tessa leaving. Yseld uses Mara's isolation and the community's fear to renew pressure.
+
+8. **The House under the Hill** — Winter 253–254; month 39. Harl's ordinary decline and death expose what vampire life cannot preserve. Yseld offers recognition and shelter that are emotionally tempting. A visit to the monastery reveals the increasingly desperate household she has tried to build. Mara refuses a renewed bond and is injured getting another person away.
+
+9. **What the Day Returned** — Spring to summer 254; months 42–45. Tessa returns with skills, changed expectations and a choice of her own future. The sisters reconcile without recovering their old dependency. Mara, Cael and Bren help people withdraw from Yseld's reach. A summer confrontation wounds Yseld and costs her remaining easy access. Her leg heals slowly and remains impaired; later failed approaches, relocation and loss of helpers drive the final plan.
+
+10. **The Last Invitation** — The eleventh day of autumn 255; just under month 60. The intervening year contains active concealment, rebuilding and hunting pressure. Yseld's attempt to reclaim Mara culminates in Tessa's capture through a human intermediary and a plausible request for medical help. Mara is offered safety bought with an impossible surrender. The response comes from four people acting together, not a secret solo sacrifice.
+
+11. **The Rooms Beneath the Water** — Before dawn on the twelfth day of autumn 255; just under month 60. A bounded confrontation at the Listening Sill resolves captivity and destroys Yseld's power. Ordinary people operate the separate wheels and block the damaged channels at low water; Cael's ward only reduces the sensory echoes. Yseld's genuine tide skill can buy a few dangerous minutes, not command the sea. Mara's craft contributes rope, cloth and an understanding of strain. The choice to close the refuge matters more than the mechanism. Physical violence and a failed brace kill Yseld; Mara sustains an injury that remains present at the ending. The Sill sequence occupies about a tenth of the novella.
+
+12. **A Light in the Kitchen** — Dawn in autumn 255; month 60. On the eighteenth day of autumn, exactly five years after surviving transformation, Mara shares an ordinary household whose members have freely chosen it. Harl and other absences remain mourned. The sister relationship is loving and changed. Tessa goes to her own daytime work; Mara's healing, hunger, useful night work and shelter continue. The ending completes the coercion plot and the five-year emotional arc without a new threat or promised sequel.
+
+## Continuity guardrails
+
+The 22 km Rookharbour–Briarbridge road takes a long walking day; the 16 km monastery road takes five to six hours; the 30 km forest connection takes a long summer day. Visits do not casually become round trips within a short night. Boats only travel in suitable conditions. Day shelters are opaque, scouted or occupied; material coverings can tear. Mara cannot hear through stone, perform a new craft or heal a severe wound by feeding once.
+
+Blood meals remain approximately 150–200 ml every three nights, fresh within six hours. Animal blood is used only as a short emergency bridge. Yseld's dispersed coerced access is insufficient to support two vampires indefinitely. Voluntary support grows through many people and several months; withdrawal and illness remain possible. Precise rotations stay out of the narrative except where a person's visible health makes the stakes unavoidable. Tessa is not used as a seventeen-year-old donor or an endless adult resource.
+
+The story tracks serious wounds through weeks of rest and sometimes longer impairment. Vampires breathe, sleep, retain a slow pulse, reflect in mirrors and can drown. Hunger weakens rather than granting a fighting transformation. Saints, memories of the dead and magical echoes do not supply new knowledge on demand. `continuity.json` records chapter dates, locations, injuries, feeding and the core references used after the prose is complete.

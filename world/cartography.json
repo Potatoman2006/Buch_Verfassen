@@ -1,0 +1,411 @@
+{
+  "coordinateSpace": [
+    1536,
+    1024
+  ],
+  "note": "Inherited terrain paintings and schematic feature placements. Borders indicate approximate spheres of influence; they are not surveyed boundaries. The wider chart is a composite and does not georeference the regional sheet.",
+  "maps": {
+    "inner-salt": {
+      "title": "The Inner Salt",
+      "image": "assets/inner-salt.webp",
+      "caption": "Approx. 4,800 × 3,200 km · borders & locations schematic",
+      "waterLabel": "THE INNER SALT",
+      "features": [
+        {
+          "id": "salt-seven-boughs",
+          "entry": "seven-boughs",
+          "label": "Seven Boughs",
+          "x": 175,
+          "y": 205,
+          "area": "M20 20L450 20L440 160L350 250L250 330L150 400L20 280Z",
+          "color": "#4d805d"
+        },
+        {
+          "id": "salt-merenne",
+          "entry": "merenne",
+          "label": "Merenne",
+          "x": 360,
+          "y": 330,
+          "area": "M270 240L410 220L470 300L460 370L390 400L290 370L230 310Z",
+          "color": "#a88058"
+        },
+        {
+          "id": "salt-velisara",
+          "entry": "velisara",
+          "label": "Velisara",
+          "x": 430,
+          "y": 395,
+          "area": "M390 370L460 350L485 390L455 420L410 422Z",
+          "color": "#c39862"
+        },
+        {
+          "id": "salt-greyhaven",
+          "entry": "greyhaven",
+          "label": "Greyhaven League",
+          "x": 1005,
+          "y": 290,
+          "area": "M950 215L1100 220L1180 310L1110 320L1020 330L985 300Z",
+          "color": "#aa7863"
+        },
+        {
+          "id": "salt-orison",
+          "entry": "orison",
+          "label": "Orison Charterlands",
+          "x": 600,
+          "y": 295,
+          "area": "M510 240L660 225L705 275L690 330L600 350L540 320Z",
+          "color": "#b18e64"
+        },
+        {
+          "id": "salt-rhydder",
+          "entry": "rhydder",
+          "label": "Rhydder Marches",
+          "x": 545,
+          "y": 195,
+          "area": "M420 100L650 80L715 145L660 225L510 240L450 190Z",
+          "color": "#9f7f5b"
+        },
+        {
+          "id": "salt-avarenne",
+          "entry": "avarenne",
+          "label": "Avarenne",
+          "x": 790,
+          "y": 235,
+          "area": "M650 150L890 155L980 235L955 290L875 320L765 305L705 260Z",
+          "color": "#b68f5d"
+        },
+        {
+          "id": "salt-kharad-vorn",
+          "entry": "kharad-vorn",
+          "label": "Kharad-Vorn",
+          "x": 850,
+          "y": 140,
+          "area": "M650 20L1080 20L1120 150L1020 180L980 235L890 155L650 150Z",
+          "color": "#7c8790"
+        },
+        {
+          "id": "salt-redwind",
+          "entry": "redwind",
+          "label": "Redwind Khanates",
+          "x": 1170,
+          "y": 235,
+          "area": "M1120 20L1536 20L1536 350L1440 340L1320 310L1190 280L1100 220Z",
+          "color": "#985943"
+        },
+        {
+          "id": "salt-aurelian-isles",
+          "entry": "aurelian-isles",
+          "label": "Aurelian Isles",
+          "x": 620,
+          "y": 550,
+          "color": "#679273"
+        },
+        {
+          "id": "salt-nine-beacons",
+          "entry": "nine-beacons",
+          "label": "Nine Beacons",
+          "x": 940,
+          "y": 455,
+          "color": "#a78f6a"
+        },
+        {
+          "id": "salt-reef-crown",
+          "entry": "reef-crown",
+          "label": "Reef Crown",
+          "x": 1140,
+          "y": 595,
+          "color": "#4b8994"
+        }
+      ]
+    },
+    "greater-meridian": {
+      "title": "The Greater Meridian",
+      "image": "assets/greater-meridian.webp",
+      "caption": "A composite chart of known shores · the world continues beyond every edge",
+      "waterLabel": "THE MERIDIAN BASIN",
+      "features": [
+        {
+          "id": "meridian-seven-boughs",
+          "entry": "seven-boughs",
+          "label": "Seven Boughs",
+          "x": 225,
+          "y": 131,
+          "color": "#4e815e"
+        },
+        {
+          "id": "meridian-kharad-vorn",
+          "entry": "kharad-vorn",
+          "label": "Kharad-Vorn",
+          "x": 475,
+          "y": 222,
+          "color": "#7d8791"
+        },
+        {
+          "id": "meridian-avarenne",
+          "entry": "avarenne",
+          "label": "Avarenne",
+          "x": 565,
+          "y": 397,
+          "color": "#b9915e"
+        },
+        {
+          "id": "meridian-redwind",
+          "entry": "redwind",
+          "label": "Redwind Khanates",
+          "x": 1238,
+          "y": 385,
+          "color": "#9b5944"
+        },
+        {
+          "id": "meridian-velisara",
+          "entry": "velisara",
+          "label": "Velisara",
+          "x": 321,
+          "y": 464,
+          "color": "#c69a63"
+        },
+        {
+          "id": "outer-glass-stair",
+          "entry": "beyond-the-map",
+          "label": "Glass Stair · Issen",
+          "x": 1390,
+          "y": 510,
+          "color": "#96b3a7"
+        },
+        {
+          "id": "outer-thousand-rain",
+          "entry": "beyond-the-map",
+          "label": "Thousand-Rain Coast · southward",
+          "x": 1180,
+          "y": 968,
+          "color": "#96b3a7"
+        },
+        {
+          "id": "outer-red-vault",
+          "entry": "beyond-the-map",
+          "label": "Red Vault · below the mountains",
+          "x": 605,
+          "y": 160,
+          "color": "#96b3a7"
+        },
+        {
+          "id": "outer-northern-sea",
+          "entry": "beyond-the-map",
+          "label": "The northern night sea",
+          "x": 470,
+          "y": 65,
+          "color": "#96b3a7"
+        },
+        {
+          "id": "outer-kes",
+          "entry": "beyond-the-map",
+          "label": "Kes Pillars",
+          "x": 220,
+          "y": 880,
+          "color": "#96b3a7"
+        }
+      ]
+    },
+    "rookharbour": {
+      "title": "The Rookharbour coast",
+      "caption": "Local sketch · road distances, not a survey · autumn 250 IS",
+      "waterLabel": "WESTERN INNER SALT",
+      "features": [
+        {
+          "id": "local-town",
+          "entry": "story-ground",
+          "label": "Rookharbour",
+          "x": 710,
+          "y": 695,
+          "color": "#d6b878"
+        },
+        {
+          "id": "local-bridge",
+          "entry": "story-ground",
+          "label": "Briarbridge",
+          "x": 395,
+          "y": 305,
+          "color": "#aac799"
+        },
+        {
+          "id": "local-monastery",
+          "entry": "story-ground",
+          "label": "Saint Orra’s",
+          "x": 1100,
+          "y": 315,
+          "color": "#d6b878"
+        }
+      ]
+    }
+  },
+  "wonders": [
+    {
+      "id": "wonder-sill",
+      "entry": "story-ground",
+      "label": "The Listening Sill",
+      "x": 361,
+      "y": 357,
+      "color": "#c7afd9"
+    },
+    {
+      "id": "wonder-crown",
+      "entry": "kharad-vorn",
+      "label": "The Grey Descent",
+      "x": 868,
+      "y": 152,
+      "color": "#c7afd9"
+    },
+    {
+      "id": "wonder-saltfall",
+      "entry": "history",
+      "label": "The drowned Ilyran world",
+      "x": 744,
+      "y": 650,
+      "color": "#c7afd9"
+    },
+    {
+      "id": "wonder-forest",
+      "entry": "seven-boughs",
+      "label": "The Briar-Wake",
+      "x": 200,
+      "y": 190,
+      "color": "#c7afd9"
+    }
+  ],
+  "routes": [
+    {
+      "id": "route-coast",
+      "label": "Western coastal passage",
+      "entry": "inner-salt",
+      "points": [
+        [
+          430,
+          415
+        ],
+        [
+          540,
+          510
+        ],
+        [
+          620,
+          550
+        ],
+        [
+          940,
+          480
+        ],
+        [
+          1140,
+          590
+        ]
+      ]
+    },
+    {
+      "id": "route-road",
+      "label": "Northern road and pass routes",
+      "entry": "inner-salt",
+      "points": [
+        [
+          360,
+          330
+        ],
+        [
+          545,
+          195
+        ],
+        [
+          600,
+          295
+        ],
+        [
+          790,
+          235
+        ],
+        [
+          850,
+          140
+        ],
+        [
+          1170,
+          235
+        ]
+      ]
+    }
+  ],
+  "localRoutes": [
+    {
+      "id": "local-road-briar",
+      "label": "22 km · one long day walking",
+      "points": [
+        [
+          710,
+          695
+        ],
+        [
+          605,
+          562
+        ],
+        [
+          495,
+          440
+        ],
+        [
+          395,
+          305
+        ]
+      ]
+    },
+    {
+      "id": "local-road-orra",
+      "label": "16 km · five to six hours walking",
+      "points": [
+        [
+          710,
+          695
+        ],
+        [
+          825,
+          573
+        ],
+        [
+          930,
+          480
+        ],
+        [
+          1015,
+          415
+        ],
+        [
+          1100,
+          315
+        ]
+      ]
+    },
+    {
+      "id": "local-forest-track",
+      "label": "30 km · one summer day",
+      "points": [
+        [
+          395,
+          305
+        ],
+        [
+          540,
+          240
+        ],
+        [
+          800,
+          238
+        ],
+        [
+          990,
+          250
+        ],
+        [
+          1100,
+          315
+        ]
+      ]
+    }
+  ]
+}
